@@ -31,7 +31,6 @@ A user can:
 ### 2. Admin
 
 An admin can:
-
 * Log in to the system.
 * Create new gaming events.
 * Update or remove existing events.
